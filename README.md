@@ -1,2 +1,2 @@
 # C-Programming-in-Hackerrank
-Hackerrank QnAs for C Programming
+## This Repository contains Questions and Solutions from the C Programming Module of *Hackerrank.com*
